@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# clion
+.idea/
+cmake-*
+CMakeLists.txt.user
+
+# Mac
+.DS_Store
